@@ -1,0 +1,2 @@
+1. have to fix accounts index for parsing proof for whitelisted minting.
+2. have to assign code for whitelisting and sale stage.
