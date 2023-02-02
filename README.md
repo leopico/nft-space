@@ -8,7 +8,7 @@ This project demonstrates a nft minting site.You have to see front-end design at
 
 Deploying on Goerli testnet and We can sell and buy at Rarible marketplace [re-selling at Rarible](https://testnet.rarible.com/dragonfire_nft), Smart Contract address - 
 
-0xf5648F1f7AD9Fe8405cd8A787790a00090d681dC.
+0xf5648F1f7AD9Fe8405cd8A787790a00090d681dC
 
 # Install depencies
 
