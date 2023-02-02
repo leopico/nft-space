@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Nft minting smart contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a nft minting site.You can see front-end design at (https://github.com/leopico/nft-space-frontend.git) and also hosting on vercel for front-end.
 
 Try running some of the following tasks:
 
