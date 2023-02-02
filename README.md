@@ -1,6 +1,8 @@
 # Nft minting smart contract
 
-This project demonstrates a nft minting site.You have to see front-end design at (https://github.com/leopico/nft-space-frontend.git) and also [hosting on vercel](nft-space-frontend-k854xns0u-leopico.vercel.app)
+This project demonstrates a nft minting site.You have to see front-end design at (https://github.com/leopico/nft-space-frontend.git) and also 
+
+[hosting on vercel](nft-space-frontend-k854xns0u-leopico.vercel.app)
 
 # appendix
 
