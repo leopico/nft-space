@@ -1,6 +1,8 @@
 # Nft minting smart contract
 
-This project demonstrates a nft minting site with hardhat framework.You have to see front-end design at (https://github.com/leopico/nft-space-frontend.git) and also 
+This project demonstrates a nft minting site with hardhat framework.You have to see front-end design at 
+
+(https://github.com/leopico/nft-space-frontend.git) 
 
 [hosting on vercel](nft-space-frontend-k854xns0u-leopico.vercel.app)
 
