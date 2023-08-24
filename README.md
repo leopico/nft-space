@@ -2,7 +2,7 @@
 
 This project demonstrates a nft minting site with hardhat framework.
 
-[hosting on vercel](nft-space-frontend-k854xns0u-leopico.vercel.app).
+[hosting on vercel](https://nft-space-frontend.vercel.app/).
 
 - You have to build front_end folder inside your hardhat backend pj. [front_end github link](https://github.com/leopico/nft-space-frontend.git). Because of I linked for solidity abi-code with front_end folder if you wanna deploy with localhost.You can see on hardhat.config.js.
 
